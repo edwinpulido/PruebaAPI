@@ -1,0 +1,4 @@
+com.prueba.crud
+com.prueba.crud.controllers
+com.prueba.crud.models
+com.prueba.crud.repositories
